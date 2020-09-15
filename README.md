@@ -1,2 +1,2 @@
 # Bubbles
-A simple python game.
+A simple python game
